@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react'
 export default function Chats(props) {
 
   const [render_talks, set_render_talks] = useState(false)
-  const array_copy = props.state.slice()
 
   const make_user = () => {
     let user = props.state.map((user) => {
