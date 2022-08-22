@@ -10,14 +10,17 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-scripts": "5.0.1",
+    "serve": "^14.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server -w json-server/db.json -p 3001 -d 2000"
+    "server": "json-server -w json-server/db.json -p 3001 -d 2000",
+    "heroku-postbuild": "npm run build"
   },
   "eslintConfig": {
     "extends": [
