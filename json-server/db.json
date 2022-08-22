@@ -1,0 +1,325 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Андрій",
+      "image": "./image/Andrui.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Марія",
+      "image": "./image/Maria.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Сашко",
+      "image": "./image/Sasha.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Анастасія",
+      "image": "./image/Anastasiya.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Дмитро",
+      "image": "./image/dmutro.jpg"
+    }
+  ],
+  "message": [
+    {
+      "id": 0,
+      "user_id": 0,
+      "who": "I",
+      "message": "Привіт. Як я тобі  обіцяв, я зареєструвався в месенджері",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        13,
+        20
+      ],
+      "image": "./image/Andrui.jpg"
+    },
+    {
+      "id": 1,
+      "user_id": 0,
+      "who": "companion",
+      "message": "Привіт. Це дуже чудова новина",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        13,
+        30
+      ],
+      "image": "./image/Andrui.jpg"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "who": "I",
+      "message": "Привіт.",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        13,
+        52
+      ],
+      "image": "./image/Maria.jpg"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "who": "companion",
+      "message": "Привіт. Як справи?",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        13,
+        55
+      ],
+      "image": "./image/Maria.jpg"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "who": "I",
+      "message": "Чудово, а в тебе як?",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        10
+      ],
+      "image": "./image/Maria.jpg"
+    },
+    {
+      "id": 5,
+      "user_id": 1,
+      "who": "companion",
+      "message": "Теж все добре!",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        15
+      ],
+      "image": "./image/Maria.jpg"
+    },
+    {
+      "id": 6,
+      "user_id": 2,
+      "who": "companion",
+      "message": "Привіт, в тебе буде павербанк, щоб позичити мені?",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        20
+      ],
+      "image": "./image/Sasha.jpg"
+    },
+    {
+      "id": 7,
+      "user_id": 2,
+      "who": "I",
+      "message": "Привіт, ні на жаль не буде, загубив на минулій неділі",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        25
+      ],
+      "image": "./image/Sasha.jpg"
+    },
+    {
+      "id": 8,
+      "user_id": 2,
+      "who": "companion",
+      "message": "Зрозумів",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        30
+      ],
+      "image": "./image/Sasha.jpg"
+    },
+    {
+      "id": 9,
+      "user_id": 3,
+      "who": "I",
+      "message": "Привіт, не хочешь кудись сходити на вихідні",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        45
+      ],
+      "image": "./image/Anastasiya.jpg"
+    },
+    {
+      "id": 10,
+      "user_id": 3,
+      "who": "companion",
+      "message": "Привіт, гарна ідея. Я якраз в суботу вільна",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        50
+      ],
+      "image": "./image/Anastasiya.jpg"
+    },
+    {
+      "id": 11,
+      "user_id": 3,
+      "who": "I",
+      "message": "Чудово, значить до суботи!",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        55
+      ],
+      "image": "./image/Anastasiya.jpg"
+    },
+    {
+      "id": 12,
+      "user_id": 4,
+      "who": "I",
+      "message": "Привіт, не хочешь зі мною сьогодні пійти та пограти в теніс",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        30
+      ],
+      "image": "./image/dmutro.jpg"
+    },
+    {
+      "id": 13,
+      "user_id": 4,
+      "who": "companion",
+      "message": "Привіт, вибачай, але сьогодні не вийде. Дуже зайнятий. Можливо зможу в наступний раз c тобою пійти на теніс.",
+      "data": [
+        18,
+        "Серпня",
+        2022
+      ],
+      "date_for_message": [
+        18,
+        8,
+        2022
+      ],
+      "time": [
+        14,
+        35
+      ],
+      "image": "./image/dmutro.jpg"
+    }
+  ]
+}
