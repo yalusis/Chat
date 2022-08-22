@@ -4,7 +4,6 @@ export default function Chats(props) {
 
   const [render_talks, set_render_talks] = useState(false)
   const array_copy = props.state.slice()
-  console.log(props.state)
 
   const make_user = () => {
     let user = props.state.map((user) => {
